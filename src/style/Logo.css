@@ -1,0 +1,12 @@
+.Tilt {
+  background: rgb(247, 86, 220);
+  background: linear-gradient(
+    90deg,
+    rgba(247, 86, 220, 1) 35%,
+    rgba(63, 189, 219, 1) 100%
+  );
+}
+
+.logo {
+  padding-top: 5px;
+}
